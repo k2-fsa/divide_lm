@@ -9,7 +9,7 @@ python3 setup.py install
 
 ```
 
-#### Example
+#### Fake example for demonstating functionality only.
 ```python
 # Full example is in tests/divide_test.py
 # Following statements are not real code.
@@ -36,7 +36,7 @@ hyp = divided_lm4.full_scores(sentence)
 assert np.allclose(ref, hyp), f"{ref} {hyp}"
 ```
 
-#### Real Example
+#### Real code of previous example.
 ```python
 # Copied from tests/divide_test.py
 # kenlm and numpy is only needed by this test.
