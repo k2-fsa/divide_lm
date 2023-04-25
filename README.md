@@ -9,7 +9,7 @@ python3 setup.py install
 
 ```
 
-#### Fake example for demonstating functionality only.
+#### Example with fake code for demonstating functionality only. (See real code example below)
 ```python
 # Full example is in tests/divide_test.py
 # Following statements are not real code.
